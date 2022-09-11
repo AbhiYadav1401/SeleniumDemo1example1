@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100534" started-at="2022-08-27T11:02:18 EDT" finished-at="2022-08-27T11:03:59 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="100534" started-at="2022-08-27T11:02:18 EDT" finished-at="2022-08-27T11:03:59 EDT">
+      <class name="TestNG.example11_Parallel_Testing1">
+        <test-method status="PASS" signature="Tc1()[pri:0, instance:TestNG.example11_Parallel_Testing1@7e2d773b]" name="Tc1" duration-ms="64540" started-at="2022-08-27T11:02:19 EDT" finished-at="2022-08-27T11:03:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+      </class> <!-- TestNG.example11_Parallel_Testing1 -->
+      <class name="TestNG.example11_Parallel_Testing2">
+        <test-method status="PASS" signature="Tc2()[pri:0, instance:TestNG.example11_Parallel_Testing2@fad74ee]" name="Tc2" duration-ms="100250" started-at="2022-08-27T11:02:19 EDT" finished-at="2022-08-27T11:03:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc2 -->
+      </class> <!-- TestNG.example11_Parallel_Testing2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
